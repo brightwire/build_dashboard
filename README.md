@@ -1,17 +1,17 @@
 * PROJECT STATUSES *
 
 # clientportal
-(https://github.com/brightwire/clientportal/workflows/CI/badge.svg)
+![SW Client Portal]( https://github.com/brightwire/clientportal/workflows/CI/badge.svg?sanitize=true ) (https://github.com/brightwire/clientportal)
 
 # readerapp
-(https://github.com/brightwire/readerapp/workflows/CI/badge.svg)
+![BW Reader](https://github.com/brightwire/readerapp/workflows/CI/badge.svg?sanitize=true)(https://github.com/brightwire/readerapp)
 
 # swpublish
-(https://github.com/brightwire/swpublish/workflows/CI/badge.svg)
+![SW Publish](https://github.com/brightwire/swpublish/workflows/CI/badge.svg?sanitize=true)(https://github.com/brightwire/swpublish)
 
 # bwpublish
-(https://github.com/brightwire/reporterapp/workflows/CI/badge.svg)
+![BW Publish](https://github.com/brightwire/reporterapp/workflows/CI/badge.svg?sanitize=true)(https://github.com/brightwire/reporterapp)
 
 # bwglobal
-(https://github.com/brightwire/bwglobal/workflows/CI/badge.svg)
+![BW Client Portal](https://github.com/brightwire/bwglobal/workflows/CI/badge.svg?sanitize=true)(https://github.com/brightwire/bwglobal)
 
