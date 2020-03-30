@@ -20,3 +20,6 @@
 
 ## otto-parser
 ![Otto Parser](https://github.com/brightwire/otto-parser/workflows/CI/badge.svg?sanitize=true)(https://github.com/brightwire/otto-parser)
+
+## sparks
+![Sparks](https://github.com/brightwire/sparks/workflows/CI/badge.svg?sanitize=true)(https://github.com/brightwire/sparks)
